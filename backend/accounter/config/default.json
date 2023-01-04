@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "",
+    "db": "mongodb://root:hyB2qqCMvoBYZmYo0dFcvFpw@accounter-db:27017/my-app?authSource=admin"
+}
